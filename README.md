@@ -1,6 +1,6 @@
 # Architecture
 
-
+```text
 [Unstructured Financial PDFs/Excel] 
        │
        ▼ (Ingestion & Extraction)
@@ -21,3 +21,4 @@
        │
        ▼ (Production & Validation Harness)
 [Evaluation & Tracing Engine (Ragas & TruLens Dashboard)]
+```
