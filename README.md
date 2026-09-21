@@ -2,7 +2,9 @@
 
 
 [Unstructured Financial PDFs/Excel] 
+       
        │
+       
        ▼ (Ingestion & Extraction)
 [LlamaParse (Agentic OCR / Markdown Layouts)]
        │
